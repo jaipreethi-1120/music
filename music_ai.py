@@ -10,7 +10,7 @@ import tempfile
 import os
 
 # 🔑 Configure Gemini API
-GEMINI_API_KEY = "your_gemini_api_key_here"  # Replace with your actual API key
+GEMINI_API_KEY = "AIzaSyApYmSNkXMOTSqq_qfBQTYJ5Pq6KTW2nLY"
 genai.configure(api_key=GEMINI_API_KEY)
 
 # 🎵 Streamlit App Title
