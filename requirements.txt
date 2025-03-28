@@ -1,0 +1,7 @@
+streamlit
+librosa
+google-generativeai
+numpy
+pretty_midi
+soundfile
+matplotlib
